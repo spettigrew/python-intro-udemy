@@ -20,4 +20,5 @@ text = "# this is not a comment because it's inside quotes."
  # * and / - from left to right
  # + and - - from left to right
 
-
+## Variable: to store values for processing. Python is a OOP (Object Oriented Programming). Every variable is an object.
+## variable = value
