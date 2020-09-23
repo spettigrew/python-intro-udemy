@@ -44,3 +44,8 @@ text = "# this is not a comment because it's inside quotes."
         #       print(i, a[i]) : 0-3 printed I, want, to eat.  
 
 # sum(range(4)) : prints 6, 0+1+2+3=6
+
+# Loops (for loop, while loop)
+#Break, else, continue, loop. Break - to break loop. Continue - to continue with the next. Else - only when the loop is not ternminated by a break statement.
+# while loop - test_expression:#Statements i +=1 increments, otherwise while loop will continure...forever!
+
