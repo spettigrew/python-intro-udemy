@@ -49,3 +49,6 @@ text = "# this is not a comment because it's inside quotes."
 #Break, else, continue, loop. Break - to break loop. Continue - to continue with the next. Else - only when the loop is not ternminated by a break statement.
 # while loop - test_expression:#Statements i +=1 increments, otherwise while loop will continure...forever!
 
+#------------------------------------------------------------------------------------------------
+##Functions - a group of related statements that performs a specific task and makes code resuable. ex: def func_name(): //Statements
+ # arguments - def func_name(arg1,arg2): - def = keyword.
